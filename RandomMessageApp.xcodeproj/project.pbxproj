@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		08615DF02AB808D000C66D08 /* FloatingButtonViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08615DEF2AB808D000C66D08 /* FloatingButtonViewController.swift */; };
 		0863A40E2AB7F0ED00553007 /* HexColorExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0863A40D2AB7F0ED00553007 /* HexColorExtension.swift */; };
 		0863A4102AB7FAC400553007 /* SendMessageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0863A40F2AB7FAC400553007 /* SendMessageViewController.swift */; };
 		0863A4122AB7FAE700553007 /* ReadMessageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0863A4112AB7FAE700553007 /* ReadMessageViewController.swift */; };
@@ -23,7 +22,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		08615DEF2AB808D000C66D08 /* FloatingButtonViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FloatingButtonViewController.swift; sourceTree = "<group>"; };
 		0863A40D2AB7F0ED00553007 /* HexColorExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HexColorExtension.swift; sourceTree = "<group>"; };
 		0863A40F2AB7FAC400553007 /* SendMessageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SendMessageViewController.swift; sourceTree = "<group>"; };
 		0863A4112AB7FAE700553007 /* ReadMessageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReadMessageViewController.swift; sourceTree = "<group>"; };
@@ -76,7 +74,6 @@
 			children = (
 				086F24692AB743EF006E10FB /* MainViewController.swift */,
 				08E587CA2AB7DAF200EE26BB /* WebSocketManager.swift */,
-				08615DEF2AB808D000C66D08 /* FloatingButtonViewController.swift */,
 			);
 			path = MainViewController;
 			sourceTree = "<group>";
@@ -265,7 +262,6 @@
 			files = (
 				086F245A2AB742DE006E10FB /* LoginViewController.swift in Sources */,
 				086F246A2AB743EF006E10FB /* MainViewController.swift in Sources */,
-				08615DF02AB808D000C66D08 /* FloatingButtonViewController.swift in Sources */,
 				0863A40E2AB7F0ED00553007 /* HexColorExtension.swift in Sources */,
 				086F24722AB77288006E10FB /* PreviewExtension.swift in Sources */,
 				086F24562AB742DE006E10FB /* AppDelegate.swift in Sources */,
